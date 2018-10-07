@@ -1,0 +1,199 @@
+.container2 {
+    margin: auto;
+    width: 960px;
+    background-color: white;
+    height: 1350px;
+    margin: 20px auto 100px auto;
+}
+
+#portfolio {
+    background-color: white;
+    padding: 10px;
+    color: #1a343d;
+    margin: auto;
+}
+
+.project {
+    position: relative;
+    float: left;
+}
+
+.image {
+    max-width: 370px;
+}
+
+.project-name {
+    background-color: #4aaaa5;
+    text-align: center;
+    margin: auto;
+    padding: 20px 104px;
+    font-size: 15px;
+    position: absolute;
+    bottom: 15px;
+    width: 162px;
+}
+
+.project a {
+    text-decoration: none;
+}
+
+.project a:visited {
+    color: #1a343d;
+}
+
+.project a:hover {
+    color: white;
+}
+
+.project li:after {
+    color: #62acc7;
+}
+
+.project2 {
+    position: relative;
+    float: left;
+    left: 50px;
+}
+
+.image2 {
+    max-width: 370px;
+}
+
+.project-name2 {
+    background-color: #4aaaa5;
+    text-align: center;
+    margin: auto;
+    padding: 20px 104px;
+    font-size: 15px;
+    position: absolute;
+    bottom: 15px;
+    width: 162px;
+}
+
+.project2 a {
+    text-decoration: none;
+}
+
+.project2 a:visited {
+    color: #1a343d;
+}
+
+.project2 a:hover {
+    color: white;
+}
+
+.project2 li:after {
+    color: #62acc7;
+}
+
+.project3 {
+    position: relative;
+    float: left;
+    margin-top: 50px;
+}
+
+.image3 {
+    max-width: 370px;
+}
+
+.project-name3 {
+    background-color: #4aaaa5;
+    text-align: center;
+    margin: auto;
+    padding: 20px 104px;
+    font-size: 15px;
+    position: absolute;
+    bottom: 15px;
+    width: 162px;
+}
+
+.project3 a {
+    text-decoration: none;
+}
+
+.project3 a:visited {
+    color: #1a343d;
+}
+
+.project3 a:hover {
+    color: white;
+}
+
+.project3 li:after {
+    color: #62acc7;
+}
+
+.project4 {
+    position: relative;
+    float: left;
+    left: 50px;
+    margin-top: 50px;
+}
+
+.image4 {
+    max-width: 370px;
+}
+
+.project-name4 {
+    background-color: #4aaaa5;
+    text-align: center;
+    margin: auto;
+    padding: 20px 104px;
+    font-size: 15px;
+    position: absolute;
+    bottom: 15px;
+    width: 162px;
+}
+
+.project4 a {
+    text-decoration: none;
+}
+
+.project4 a:visited {
+    color: #1a343d;
+}
+
+.project4 a:hover {
+    color: white;
+}
+
+.project4 li:after {
+    color: #62acc7;
+}
+
+.project5 {
+    position: relative;
+    float: left;
+    margin-top: 50px;
+}
+
+.image5 {
+    max-width: 370px;
+}
+
+.project-name5 {
+    background-color: #4aaaa5;
+    text-align: center;
+    margin: auto;
+    padding: 20px 104px;
+    font-size: 15px;
+    position: absolute;
+    bottom: 15px;
+    width: 162px;
+}
+
+.project5 a {
+    text-decoration: none;
+}
+
+.project5 a:visited {
+    color: #1a343d;
+}
+
+.project5 a:hover {
+    color: white;
+}
+
+.project5 li:after {
+    color: #62acc7;
+}

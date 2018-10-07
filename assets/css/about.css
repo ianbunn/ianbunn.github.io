@@ -1,0 +1,13 @@
+#about {
+    background-color: white;
+    padding: 10px;
+    height: 400px;
+    color: #1a343d;
+}
+
+/* profile image */
+.profile {
+    float: left;
+    position: relative;
+    padding-right: 20px;
+}
