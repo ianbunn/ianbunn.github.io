@@ -20,7 +20,7 @@ body {
     font-size:1.2rem;
 }
 
-.logo a:link, a:visited {
+.logo a:link, .logo a:visited {
     text-decoration: none;
     color: #55e8c8;
 }
@@ -33,15 +33,37 @@ body {
     padding-top: 10px;
 }
 
-.items a:link, a:visited {
+.items a:link, .items a:visited {
     text-decoration: none;
     color: #55e8c8;
 }
 
-.items a:hover, a:active {
+.items a:hover, .items a:active {
     color: white;
     background-color: black;
     padding: 0 10px;
+}
+
+.content {
+    position: fixed;
+    color: white;
+    left: 200px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+.content a:link, .content a:visited {
+    text-decoration: none;
+    color: #55e8c8;
+}
+
+.content a:hover, .content a:active {
+    color: red;
+    background-color: black;
+}
+
+.crossed-out {
+    text-decoration: line-through wavy red;
 }
 
 @media only screen and (max-width: 720px) {
