@@ -68,7 +68,7 @@ body {
 }
 
 .crossed-out {
-    text-decoration: line-through solid #55e8c8;
+    text-decoration: line-through wavy #55e8c8;
 }
 
 @media only screen and (max-width: 720px) {
@@ -79,4 +79,8 @@ body {
     .menu ul, .items ul {
         display: inline;
     }
+
+    .crossed-out {
+    text-decoration: line-through wavy #55e8c8;
+}
 }
