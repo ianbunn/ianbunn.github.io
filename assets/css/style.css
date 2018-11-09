@@ -1,3 +1,9 @@
+/*
+background color:  #2b3a37
+menu text color: #55e8c8
+content text color: #55e8c8
+*/
+
 body {
     background-color: #2b3a37;
     font-family: 'Space Mono', monospace;
@@ -58,12 +64,11 @@ body {
 }
 
 .content a:hover, .content a:active {
-    color: red;
     background-color: black;
 }
 
 .crossed-out {
-    text-decoration: line-through wavy red;
+    text-decoration: line-through solid #55e8c8;
 }
 
 @media only screen and (max-width: 720px) {
