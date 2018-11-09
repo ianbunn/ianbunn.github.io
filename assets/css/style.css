@@ -47,7 +47,6 @@ body {
 .items a:hover, .items a:active {
     color: white;
     background-color: black;
-    padding: 0 10px;
 }
 
 .content {
