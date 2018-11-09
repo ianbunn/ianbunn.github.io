@@ -69,7 +69,7 @@ body {
 
 .crossed-out {
     text-decoration: line-through wavy #55e8c8;
-    -webkit-text-decoration-line: line-through wavy #55e8c8; /* Safari */
+    -webkit-text-decoration: line-through wavy #55e8c8; /* Safari */
 }
 
 @media only screen and (max-width: 720px) {
