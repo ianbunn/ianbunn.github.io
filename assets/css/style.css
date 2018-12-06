@@ -66,6 +66,28 @@ body {
     background-color: black;
 }
 
+.cL {
+    font-weight: 900;
+}
+
+.cL a:link, .cL a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.cL a:hover, .cL a:active {
+    background-color: #808080;
+}
+
+.pD:hover {
+    background-color: #55e8c8;
+    color: black;
+}
+
+#contact {
+    margin-top: 10em;
+}
+
 .crossed-out {
     text-decoration: line-through wavy #55e8c8;
     -webkit-text-decoration: line-through wavy #55e8c8; /* Safari */
