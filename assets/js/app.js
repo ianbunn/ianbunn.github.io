@@ -1,9 +1,8 @@
 $(document).snowfall({
     round: true,
-    shadow: true,
     flakeCount: 500,
     maxSpeed: 3,
-    maxSize: 2
+    maxSize: 3
 });
 
 var title = $("#title").hide();
