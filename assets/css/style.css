@@ -3,7 +3,9 @@ background color:  #2b3a37
 menu text color: #55e8c8
 content text color: #55e8c8
 */
-
+html{
+    height: 100%;
+}
 body {
     background-color: #2b3a37;
     font-family: 'Space Mono', monospace;
@@ -91,6 +93,14 @@ body {
 .crossed-out {
     text-decoration: line-through wavy #55e8c8;
     -webkit-text-decoration: line-through wavy #55e8c8; /* Safari */
+}
+
+.titleAnimate{
+    font-size: 2em;
+}
+
+.subtext{
+    font-family: 'Press Start 2P',cursive;
 }
 
 @media only screen and (max-width: 720px) {
