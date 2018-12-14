@@ -1,4 +1,4 @@
-$("html").snowfall({
+$(document).snowfall({
     flakeCount: 500,
     maxSpeed: 3,
     maxSize: 2,
