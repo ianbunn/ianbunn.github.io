@@ -1,0 +1,14 @@
+.container {
+    display: grid;
+    grid-template-columns: auto 50px auto;
+    grid-template-rows: [row1] 25px [row2] 25px [row3];
+    grid-template-areas: 
+        "header header header" 
+        "footer footer footer";
+}
+
+#title{
+    grid-row-start: row3;
+    grid-column-start: 3;
+    background-color: red;
+}
