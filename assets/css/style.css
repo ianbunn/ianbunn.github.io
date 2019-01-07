@@ -103,6 +103,15 @@ body {
     font-family: 'Press Start 2P',cursive;
 }
 
+.title{
+    font-size:0.8em;
+    font-family: 'Space Mono', monospace;
+}
+
+hr {
+    border-color: white;
+}
+
 @media only screen and (max-width: 720px) {
     .menu{
         width: 100px;
