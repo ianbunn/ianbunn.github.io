@@ -19,8 +19,18 @@ The landing page is set to `index.html` with sidebar menu to access the rest of 
 
 ## Clone Repo
 
-Run the following command to clone repo:
+Run the following command to clone repo on your local machine:
 
 ```git
 git clone https://github.com/ianbunn/ianbunn.github.io.git
 ```
+
+Make changes to the *.html files to make sure you have original content.
+
+## Going Live with GitHub Pages
+
+Once you've done your changes to the cloned repo, you can push to your own repo and start your own GitHub Pages app.
+
+Once in your created repo, navigate to repository's settings. Then look for **GitHub Pages** section.
+
+Your settings' source should be set to `master branch` to build your app using your latest pushed code.
